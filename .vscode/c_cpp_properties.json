@@ -8,9 +8,9 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ MAKER WEIGHING SCALE/include",
-                "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ MAKER WEIGHING SCALE/src",
-                "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ MAKER WEIGHING SCALE/.pio/libdeps/nodemcu-32s/HX711/src",
+                "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ-MAKER-WEIGHING-SCALE/include",
+                "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ-MAKER-WEIGHING-SCALE/src",
+                "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ-MAKER-WEIGHING-SCALE/.pio/libdeps/nodemcu-32s/HX711/src",
                 "C:/Users/jcj4v/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "C:/Users/jcj4v/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "C:/Users/jcj4v/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -245,9 +245,9 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ MAKER WEIGHING SCALE/include",
-                    "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ MAKER WEIGHING SCALE/src",
-                    "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ MAKER WEIGHING SCALE/.pio/libdeps/nodemcu-32s/HX711/src",
+                    "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ-MAKER-WEIGHING-SCALE/include",
+                    "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ-MAKER-WEIGHING-SCALE/src",
+                    "C:/Users/jcj4v/Documents/JAYFOUR/FABRICATION/PROJECTS/FPJ MAKER/CODE/ARDUINO/FPJ-MAKER-WEIGHING-SCALE/.pio/libdeps/nodemcu-32s/HX711/src",
                     "C:/Users/jcj4v/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "C:/Users/jcj4v/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "C:/Users/jcj4v/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
